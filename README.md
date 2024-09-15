@@ -33,18 +33,18 @@ The Paris Olympics Dashboard project is an advanced data visualization and analy
 
 #### 3. Power BI Setup:
 
-Open the Power BI Desktop application.
-Import the provided Power BI files (.pbix) into Power BI Desktop.
-Connect to the required data sources as per the instructions in the Power BI file.
+##### Open the Power BI Desktop application.
+##### Import the provided Power BI files (.pbix) into Power BI Desktop.
+##### Connect to the required data sources as per the instructions in the Power BI file.
 
 #### 4. Excel Setup:
 
-Open the provided Excel files and ensure they are correctly linked with your Power BI reports.
-Verify that all data sources are correctly updated and formatted.
+##### Open the provided Excel files and ensure they are correctly linked with your Power BI reports.
+##### Verify that all data sources are correctly updated and formatted.
 
 ## Customization: 
 To customize the dashboard or add new features:
 
-Update Python Scripts: Modify data processing and analysis scripts as needed.
-Enhance Power BI Reports: Add new visualizations or metrics using Power BI tools and DAX formulas.
-Modify Excel Data: Adjust the Excel files for any new data or changes in data structure.
+##### Update Python Scripts: Modify data processing and analysis scripts as needed.
+##### Enhance Power BI Reports: Add new visualizations or metrics using Power BI tools and DAX formulas.
+##### Modify Excel Data: Adjust the Excel files for any new data or changes in data structure.
